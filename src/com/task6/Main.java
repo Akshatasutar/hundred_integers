@@ -11,6 +11,7 @@ public class Main {
             userStrings[userStrings.length - 1 - i] = str;
         }
 
+
         for (String x : userStrings) {
             System.out.println(x);
         }
