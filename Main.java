@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Hence, 1000 000 is reached between steps "
                 + (step - 1) + " and " + step  );
         System.out.println(n);
+        System.out.println("done!!");
 
     }
 
